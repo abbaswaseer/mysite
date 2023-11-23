@@ -1,48 +1,43 @@
 body{
     margin: 0px;
     text-align: center;
+    font-family: 'Merriweather', Verdana,serif;
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .top-container{
     background-color: #e0ebe8;
+    position: relative;
+    margin: 0px;
 }
 
-/* .middle-container{
-    background-color: red;
-    border: solid 30px;
-    width: 200px;
-    height: 200px;
-    margin: 20px 30px 40px 50px;
-    padding: 10px;
-    border-top: 0px;
-    padding-right: 0px;
-
-}
-.bottom-container{
-    background-color: blue;
-    width: 200px;
-    height: 200px;
-
-} */
 
 .different{
     text-decoration: underline;
 }
 
-
-.mario{
+.top-cloud{
     width: 100px;
-    height: 100px;
+    height: 50px;
+    position: absolute;
+    top: 30px;
+    right: 200px;
 }
 
-.hello{
-    display: inline-block;
-    width: 300px;
+.bottom-cloud{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    left: 300px;
+    top: 30px;
 }
 
-.cloud{
-    height: 200px;
-    width: 300px;
-}
 
 
