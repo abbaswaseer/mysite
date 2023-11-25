@@ -48,5 +48,11 @@ h3{
     top: 30px;
 }
 
+hr{
+    width: 200px;
+    border-style: dotted;
+    border-bottom: none;
+}
+
 
 
