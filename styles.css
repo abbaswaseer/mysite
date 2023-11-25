@@ -5,11 +5,20 @@ body{
 }
 
 h1{
+    font-size: 3.75rem;
     font-family: 'Dancing Script', cursive;
+    margin: 0px;
+    color: #4ab29b;
+}
+
+h2{
+    font-weight: normal;
+    color: #4ab29b;
 }
 
 h3{
     font-family: 'Times New Roman', Times, serif;
+    color: #57d6b8;
 }
 
 .top-container{
